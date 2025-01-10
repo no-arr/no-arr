@@ -19,7 +19,9 @@ On the website's backend, I leverage ExpressJS as I explore JavaScript. For the 
 A simple transpiler which would convert "typed lua" to lua. An example:
 ```lua
 local myName: string = "0array"
+local myAge: int = 17
+local somethingNonexistent: string? = nil
 ```
 #
 ### Mopimo!
-I also have made a port of a computer game [Bopimo!](https://bopimo.com) to Mobile and MacOS. It was written mostly with GDScript so the port was easier. However for GDExtension related part I do that work on a remote linux server which returns the result back to the port client. You can check it out yourself by heading to [the website!](https://mp.bokku.xyz)
+I also have made a port of a computer game [Bopimo!](https://bopimo.com) to Mobile and MacOS. It was written mostly with GDScript so the port was easier. However for GDExtension related part I do that work on a remote linux server which returns the result back to the port client or I simply re-wrote the functionality missing in GDScript. You can check it out yourself by heading to [the website!](https://mp.bokku.xyz)
