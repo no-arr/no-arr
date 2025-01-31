@@ -4,15 +4,17 @@ Hello! I am **0array**. I work on web applications and games with Godot & Unity.
 ## My Projects
 
 ### Cubern
-[Cubern](https://cubern.sbs) is an online sandbox where creativity knows no bounds. Here, you can develop games and customize your character to showcase your style and passion.
+> I am no longer working on cubern.
+
+[Cubern](https://cubern.sbs) was an online sandbox where creativity knew no bounds. Here, you could develop games and could had customized your character to showcase your style and passion.
 #### Behind the Scenes
 For the workshop, I utilized Godot 4.2 (.NET) in previous versions with custom compiled export templates for resource protection. It predominantly (99%) employed C# with minimal GDScript. I had also integrated [AOT Compilation](https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/) featured in .NET 8.0.
 
-I am now utilizing Unity Game Engine.
+I was utilizing later on Unity Game Engine.
 
-For the runtime programming language (lua), I used [Moonsharp](https://www.moonsharp.org/) both on the client and the game server. Now I am shifting to [NLua](https://github.com/NLua/NLua) which is an interface between C# and C-Lua interpreter. 
+For the runtime programming language (lua), I used [Moonsharp](https://www.moonsharp.org/) both on the client and the game server. And before leaving it I was shifting to [NLua](https://github.com/NLua/NLua) which is an interface between C# and C-Lua interpreter. 
 
-On the website's backend, I leverage ExpressJS as I explore JavaScript. For the frontend, I opt for VueJS due to its user-friendly nature and Single Page Application feature, ensuring a smooth experience for users.
+On the website's backend, I leveraged ExpressJS as I explored JavaScript. For the frontend, I opted for VueJS due to its user-friendly nature and Single Page Application feature, ensuring a smooth experience for users.
 #
 
 ### TLua
