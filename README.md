@@ -1,5 +1,5 @@
 # 0array
-Hello! I am **0array**. I work on web applications and games with Godot & Unity. I am a full-stack web developer who enjoys creating projects that appear simple and minimal to the viewer, often using flat dark colors. I am Pakistan, and I am currently 17 years old as of 2025. In the future, I aspire to be both a full-stack developer and a data scientist.
+Hello! I am **0array**. I work on web applications and games with Godot & Unity. I am a full-stack web developer who enjoys creating projects that appear simple and minimal to the viewer, often using flat dark colors. I am from Pakistan, and I am currently 17 years old as of 2025. In the future, I aspire to be both a full-stack developer and a data scientist.
 
 ## My Projects
 > "⏰" means the project is no longer in development by me.
